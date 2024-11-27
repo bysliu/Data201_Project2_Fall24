@@ -8,6 +8,10 @@ Betty Liu
 Upload data to session storage with name:
 Crime_20241117.csv
 
+Or replace
+crime_df= pd.read_csv('Crime_20241117.csv')
+with the newest download
+
 
 Montgomery County Police Department's database of founded crime
 [30x422000]
